@@ -1,2 +1,2 @@
 # estudos
-Estudos
+Somente para estudo
